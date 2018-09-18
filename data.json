@@ -1,0 +1,31 @@
+[
+{ 
+    "HotelID" : 1,
+    "HotelName" : "The Oberoi Amarvilas",
+    "HotelAddress" : "Taj East Gate Rd, Paktola, Near, Agra, Uttar Pradesh 282001",
+    "HotelRating" : 4
+},
+{ 
+    "HotelID" : 2,
+    "HotelName" : "Taj Lake Palace",
+    "HotelAddress" : "Pichola, Udaipur, Rajasthan 313001",
+    "HotelRating" : 5
+},
+{ 
+    "HotelID" : 3,
+    "HotelName" : "Umaid Bhawan Palace",
+    "HotelAddress" : "Circuit House Rd, Cantt Area, Jodhpur, Rajasthan 342006",
+    "HotelRating" : 5
+},
+    { 
+    "HotelID" : 4,
+    "HotelName" : "Radison Blu",
+    "HotelAddress" : "7, Wardha Road, Chhatrapati Square, Nagpur, Maharashtra 440015",
+    "HotelRating" : 4
+},
+{ 
+    "HotelID" : 5,
+    "HotelName" : "Hyatt Regency",
+    "HotelAddress" : "Weikfield IT Park, Pune Nagar Road, Pune, Maharashtra 411014",
+    "HotelRating" : 5
+}]
